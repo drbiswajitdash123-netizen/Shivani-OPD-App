@@ -1,0 +1,65 @@
+NEUROLOGY OPD REGISTER
+Movement disorders and epilepsy
+No coding needed.
+
+OPEN IT
+1. Double-click "Open the app.bat".
+2. A black window stays open. Leave it open.
+3. Chrome opens the register. Always use the same browser.
+4. Do not use Incognito / private mode, or the records can disappear when you close it.
+
+ON YOUR PHONE
+1. Connect the phone to the same Wi-Fi as this computer.
+2. In the black window, find a line like http://192.168.x.x:8787/
+3. Type that address into Chrome on the phone.
+4. In Chrome: menu, then "Add to Home screen".
+5. If Windows asks about a firewall, allow it on private networks.
+Voice works best in Google Chrome.
+
+WHAT YOU CAN DO
+- Press "Record patient details" once and say the name, age, sex, OPD number, phone, and diagnosis in one sentence.
+- Or tap New patient and type. Small Speak buttons fill one box at a time.
+- The phone number stays on the patient card. Tap it to call.
+- Search box: type a phone number or a diagnosis, such as 9876543210, Parkinson, stroke, or migraine.
+- Other neurology is the place for stroke, headache, neuropathy, and any diagnosis that is not a movement disorder or epilepsy.
+- Filters: Movement, Epilepsy, Other neurology, Follow-up due, Today.
+- Add visit: copies the last diagnosis and medicines so follow-up is faster.
+
+VOICE
+Press "Record patient details" once, then say:
+name Maharani Das, age 24, sex female, OPD number Jajpur 21, phone 9876543210, diagnosis parkinsonism
+
+It stops by itself when you finish speaking. Check the boxes, then tap Save.
+
+You can also tap "Tap and speak" and say one thing:
+- New patient
+- Name Sunita Devi
+- Phone 98765 43210
+- Age 54
+- Female
+- Diagnosis essential tremor
+- Medicine propranolol 40 mg morning and night
+- Search stroke
+- Search 9000000001
+- Save
+
+Or tap the small Speak button on a box and talk only into that box.
+In Settings you can switch the voice language to Hindi.
+
+TRY IT ONCE
+1. Open Settings and tap "Add practice patients".
+2. In the search box, type Parkinson. Then try the phone number 9000000001.
+3. Tap Other neurology to see a stroke practice record.
+4. Delete the practice patients from Settings when you want a clean register.
+Practice names start with EXAMPLE. The phone numbers are 90000 00001 and similar, so they are not real.
+
+KEEP YOUR RECORDS SAFE
+- Settings, then "Download backup", once a week.
+- Keep that file somewhere safe (a USB drive or email to yourself).
+- "Restore a backup" brings the records back onto a browser.
+- "Download phone list" makes a simple text file of names, phones, and diagnoses.
+- Records stay on this device. This app does not upload them.
+- This app only stores your notes. It does not give medical advice or doses.
+
+PUT YOUR CLINIC NAME
+Settings: type the clinic name and your name. They appear on the printed visit note.
